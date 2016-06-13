@@ -1,7 +1,7 @@
 # TicTacToe/CrissCross
 #### Naive AI Enabled Tic-Tac-Toe Game 
 
-It is a simple Tic-Tac-Toe game and you can play with the computer too! The computer has two AI-Players, having two levels of smartness. It is almost impossible to beat the hard level :sunglasses:.
+It is a simple [Tic-Tac-Toe](http://minhaskamal.github.io/TicTacToe) game and you can play with the computer too! The computer has two AI-Players, having two levels of smartness. It is almost impossible to beat the hard level :sunglasses:.
 
 The game was first created [in C](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/CrissCrossV-2.c), then was rewritten and converted to Java. The actual name of the project was **CrissCross**.
 
