@@ -1,0 +1,6 @@
+{
+  "name": "Tic Tac Toe",
+  "tagline": "Naive AI Enabled Tic-Tac-Toe Game",
+  "body": "It is a simple Tic-Tac-Toe game and you can play with the computer too! The computer has two AI-Players, having two levels of smartness. It is almost impossible to beat the hard level :sunglasses:.\r\n\r\nThe game was first created [in C](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/CrissCrossV-2.c), then was rewritten and converted to Java. The actual name of the project was **CrissCross**.\r\n\r\n### License\r\n<a rel=\"license\" href=\"http://www.gnu.org/licenses/gpl.html\"><img alt=\"GNU General Public License\" style=\"border-width:0\" src=\"http://www.gnu.org/graphics/gplv3-88x31.png\" /></a><br/>TicTacToe/CrissCross is licensed under a <a rel=\"license\" href=\"http://www.gnu.org/licenses/gpl.html\">GNU General Public License version-3</a>.\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
