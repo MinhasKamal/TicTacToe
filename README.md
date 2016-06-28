@@ -1,4 +1,4 @@
-# TicTacToe/CrissCross
+# :game_die: TicTacToe/CrissCross
 #### Naive AI Enabled Tic-Tac-Toe Game 
 
 It is a simple [Tic-Tac-Toe](http://minhaskamal.github.io/TicTacToe) game and you can play with the computer too! The computer has two AI-Players, having two levels of smartness. It is almost impossible to beat the hard level :sunglasses:.
