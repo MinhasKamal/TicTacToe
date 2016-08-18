@@ -5,6 +5,13 @@ It is a simple [Tic-Tac-Toe](http://minhaskamal.github.io/TicTacToe) game and yo
 
 The game was first created [in C](https://github.com/MinhasKamal/CoolConsoleGames/blob/master/src/CrissCrossV-2.c), then was rewritten and converted to Java. The actual name of the project was **CrissCross**.
 
+### Views
+  <div align="center">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/17773246/486f6db4-656f-11e6-9789-9c903665a71b.PNG" height="230" width=auto title="V-2">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/17773247/48c1d072-656f-11e6-8478-a99f716f4728.PNG" height="230" width=auto title="V-3">
+  <img src="https://cloud.githubusercontent.com/assets/5456665/17773248/48c1eabc-656f-11e6-8a2c-c70562e2ee3c.PNG" height="230" width=auto title="V-4">
+  </div>
+
 ### Releases
 
 - <a href="https://github.com/MinhasKamal/TicTacToe/raw/release/CrissCross_V-4.jar">Version 4</a> - Release Date:  11 Jun 2014
